@@ -1,11 +1,14 @@
 ## Hi there 👋, I'm Sana!
 
-- 🎓 I'm a recent graduate with a Master's degree in Data Science at Bellevue University in Nebraska.  
-- 📊 I’ve gained hands-on experience in the full data pipeline — from data loading and cleaning to modeling and evaluation.  
-- 🛠️ My technical skills include **Python**, **Machine Learning**, **SQL**, **Power BI**, **Tableau**, and the **Microsoft Office Suite** (Word, Excel, PowerPoint).  
-- 💼 I’ve completed several data projects that showcase my ability to extract insights and tell stories with data.
--     This is my portfolio projects website: ( https://sana-datapro.github.io/)
-- 🔍 I’m actively seeking an internship opportunity in **Data Analytics/Data Science** to apply and grow my skills in a professional setting.  
+🎓 I am a recent graduate with a Master’s degree in Data Science from Bellevue University (Nebraska), with a strong interest in applying data analytics to real-world, impact-driven problems.
+
+📊 I have hands-on experience across the full data lifecycle — data collection, cleaning, exploratory analysis, modeling, evaluation, and visualization — with an emphasis on clarity, interpretability, and actionable insights.
+
+🛠️ Technical skills: Python, SQL, Machine Learning, Power BI, Tableau, and Microsoft Office (Excel, Word, PowerPoint).
+
+🔍 I am particularly interested in opportunities at the intersection of data, public health, and program evaluation, and I am motivated to contribute to organizations working on health systems strengthening and evidence-based decision-making.
+
+🔗 Portfolio: https://sana-datapro.github.io/  
 
 Let's connect and collaborate on data-driven solutions!
 
