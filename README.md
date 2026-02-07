@@ -6,7 +6,7 @@
 
 🛠️ Technical skills: Python, SQL, Machine Learning, Power BI, Tableau, and Microsoft Office (Excel, Word, PowerPoint).
 
-🔍 I am particularly interested in opportunities at the intersection of data, public health, and program evaluation, and I am motivated to contribute to organizations working on health systems strengthening and evidence-based decision-making.
+🔍 I am particularly interested in opportunities at the intersection of data, global and public health, program evaluation, and I am motivated to contribute to organizations working on health systems strengthening and evidence-based decision-making to make the world better and safer for future generations.
 
 🔗 Portfolio: https://sana-datapro.github.io/  
 
